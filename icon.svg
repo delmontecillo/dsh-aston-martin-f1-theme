@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aston Martin F1 theme">
+  <defs>
+    <linearGradient id="amr-icon-plate" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#00665E"/>
+      <stop offset="1" stop-color="#002824"/>
+    </linearGradient>
+    <clipPath id="amr-icon-round">
+      <rect x="2" y="2" width="60" height="60" rx="15"/>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="url(#amr-icon-plate)"/>
+  <g clip-path="url(#amr-icon-round)">
+    <rect x="0" y="0" width="64" height="3.6" fill="#CEDC00"/>
+    <g stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round">
+      <path d="M23 26 L12 19"/>
+      <path d="M22 32 L7 26"/>
+      <path d="M22 38 L12 33"/>
+      <path d="M41 26 L52 19"/>
+      <path d="M42 32 L57 26"/>
+      <path d="M42 38 L52 33"/>
+    </g>
+    <path d="M32 18 L40 22.5 L40 35 L32 46 L24 35 L24 22.5 Z" fill="none" stroke="#CEDC00" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M27.5 38.5 L32 26.5 L36.5 38.5" fill="none" stroke="#CEDC00" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29.2 34.4 L34.8 34.4" stroke="#CEDC00" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="none" stroke="#CEDC00" stroke-width="1.6" opacity="0.75"/>
+</svg>
